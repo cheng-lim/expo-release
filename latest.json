@@ -1,0 +1,15 @@
+{
+  "version": "0.5.0",
+  "notes": "",
+  "pub_date": "20250120",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "",
+      "url": ""
+    },
+    "darwin-x86_64": {
+      "signature": "",
+      "url": ""
+    }
+  }
+}
