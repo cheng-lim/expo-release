@@ -1,8 +1,8 @@
 {
-  "version": "0.10.0",
+  "version": "0.11.0",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbGkxMjJYMkI3VjQvcnAvaGViaWg4MExWc3EwR2hKUEZBdENiTS9CMUFsSHRUVG5zQlVCemxLZitjMlFDa0JkVm44MS8rZFZrYW0zZ1NwTGRmdU9nWnZFRzhmRGdPMVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM3MzU4MTA0CWZpbGU6RXhwby5hcHAudGFyLmd6CmoxRUsyR2E1cHZQanQ5cVMxejdlR1c3djVtbDloV1g4bnY0TjcxL0drdE9adzRIZUxrQ0JoUTlianI3L1VxYW1oTnV2ODYxbmZyRm52YVh6YXBnd0FBPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbGkxMjJYMkI3Vi84Wk1laXM0WUF3RkNpV0Q2MkJ2cndwNTYrenpIcjJRL3gzaThJSmxDTncyQU14RmhUbUljSlVOcmd5dUhhWE1RbXA3Tit0SXZHbmNVanJ2NVdvamdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM5MzQ3OTMwCWZpbGU6RXhwby5hcHAudGFyLmd6CjJWTm8rT0pxYjJkS2t3RHRRZUNveXR1cncxa2svN1NGaWw0aWJ4M1M4NzUvYithQ0huZmgyNGxIckZtdEtyQXA2dHZydXBPeGdDeFFIQU5aT0ZDM0J3PT0K",
       "url": "https://github.com/cheng-lim/expo-release/releases/download/v0.6.0/Expo.app.tar.gz"
     }
   }
