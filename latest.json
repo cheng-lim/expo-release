@@ -1,9 +1,13 @@
 {
-  "version": "0.4.0",
+  "version": "0.5.0",
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbGkxMjJYMkI3Vi84Wk1laXM0WUF3RkNpV0Q2MkJ2cndwNTYrenpIcjJRL3gzaThJSmxDTncyQU14RmhUbUljSlVOcmd5dUhhWE1RbXA3Tit0SXZHbmNVanJ2NVdvamdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM5MzQ3OTMwCWZpbGU6RXhwby5hcHAudGFyLmd6CjJWTm8rT0pxYjJkS2t3RHRRZUNveXR1cncxa2svN1NGaWw0aWJ4M1M4NzUvYithQ0huZmgyNGxIckZtdEtyQXA2dHZydXBPeGdDeFFIQU5aT0ZDM0J3PT0K",
       "url": "https://github.com/cheng-lim/expo-release/releases/download/v0.6.0/Expo.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbGkxMjJYMkI3VjZpQU40SWt6bG9adG05NDgvNHEvZmF1ZWlhSmdFdU90YmxxUjBOcUNQd2JOSldxRlp6SHQ1di9Kb1d4VE02L3d2aDl3UkRxZWd3N2w2bEZYYjFncGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM5MzYwMzczCWZpbGU6RXhwb18wLjQuMF94NjRfZW4tVVMubXNpCnI1Vnd4TWZwLzlaQzFUM0J0cFhEMmpaSXgwZEIwTDdhVTlNeUN4YmMvVVZwcXBaUjFqTmo5VnVkRll2QWdHanVwK2w5b0pUREYvT2tFUmVvcEhpNUNBPT0K",
+      "url" : "https://github.com/cheng-lim/expo-release/releases/download/alpha/Expo_0.4.0_x64_en-US.msi"
     }
   }
 }
